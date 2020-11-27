@@ -30,11 +30,18 @@ def compile(input):
 		f = open(input[1],"r")
 		lines = f.readlines()
 		images = []
+		c = 0
 		for line in lines:
 			l = helper(line)
 			a = int(l[0])
 			b = int(l[1])
-			im = Image.open(l[2])
+			if (c+1)!=(a):
+				print("Compiler Error : Missing Page numbers")
+			c = b
+			try:
+				im = Image.open(l[2])
+			except IOError:
+				print("Compiler Error : Missing image "+l[2] )
 		
 			for i in range(b-a+1):
 				images.append(im)
