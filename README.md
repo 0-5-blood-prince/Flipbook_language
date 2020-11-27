@@ -2,3 +2,4 @@
 ```
 ./fc.py life.flip
 ```
+![alt text] ("lifecycle.gif")
