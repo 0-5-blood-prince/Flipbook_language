@@ -1,5 +1,5 @@
 # Flipbook_language
-By Mooizz
+By Mooizz <br/>
 It took me total of 3 hours to understand,decide which language and libraries to use and finally develop the compiler.
 Libraries Used : PIL <br/>
 fc.py is the compiler <br />
