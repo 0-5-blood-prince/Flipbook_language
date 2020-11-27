@@ -28,4 +28,5 @@ To Creates Gifs
 ```
 ./fc.py life.flip -gif lifecycle.gif
 ```
+PS: Couldn't find images that actually look like a Flipbook
 ![](lifecycle.gif)
