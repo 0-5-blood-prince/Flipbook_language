@@ -2,4 +2,4 @@
 ```
 ./fc.py life.flip
 ```
-![] ("lifecycle.gif")
+![](lifecycle.gif)
