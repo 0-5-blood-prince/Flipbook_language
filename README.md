@@ -1,6 +1,6 @@
 # Flipbook_language
 
-fc.py is the compiler
+fc.py is the compiler /n
 Default : It creates an pdf of the defined flipbook
 To Create Pdfs
 ```
