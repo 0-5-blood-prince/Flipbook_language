@@ -1,5 +1,5 @@
 # Flipbook_language
-
+Libraries Used : PIL <br/>
 fc.py is the compiler <br />
 Default without any arguments other than the file to be compiled, It creates an pdf of the defined flipbook. <br />
 ```
